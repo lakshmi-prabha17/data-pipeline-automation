@@ -30,4 +30,14 @@ Organizations handling massive transactional datasets frequently suffer from man
 ## 📊 Executive Analytics Interface
 Below is the dynamic Power BI dashboard connected directly to the structured SQL Server database instance, transforming the 12,575 sanitized records into actionable business intelligence:
 
+---
+## 🧪 LMS Data Origin Verification (SCORM Cloud Audit Logs)
+Before processing the raw dataset through Python, the source Articulate Rise 360 package was audited via SCORM Cloud to ensure standard runtime variables (`cmi.core.lesson_status`, `passed`, `completed`) were successfully emitting from the course wrapper to the database:
+
+### 📸 Rise 360 Registration Status
+![Rise 360 SCORM Tracking Overview](rise_360_completion_verification.JPG)
+
+### 💻 Rise 360 LMS Debug Log Communication
+![Rise 360 SCORM Data Elements Log](rise_360_debug_log.JPG)
+
 ![Enterprise Sales Dashboard](Sales_Dashboard_Insights_Screenshot.JPG)
