@@ -19,3 +19,8 @@ Organizations handling massive transactional datasets frequently suffer from man
 * Eliminated manual script executions by introducing a repeatable programmatic pipeline.
 * Scaled relational database storage to support seamless, structured data expansions.
 * Transformed raw, siloed spreadsheet data into a centralized, refreshable source of truth for corporate leadership.
+
+## 📊 Executive Analytics Interface
+Below is the dynamic Power BI dashboard connected directly to the structured SQL Server database instance, transforming the 12,575 sanitized records into actionable business intelligence:
+
+![Enterprise Sales Dashboard](Sales_Dashboard_Insights_Screenshot.JPG)
