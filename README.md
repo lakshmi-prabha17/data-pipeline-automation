@@ -1,5 +1,12 @@
 # 📊 Sales Data Pipeline Automation & Analytics
 
+## 👥 The L&D Data Ecosystem (Rise 360 Integration)
+This project simulates an enterprise-grade Learning Analytics pipeline. The source dataset represents raw user engagement, module tracking, and assessment scores exported directly from a global **Articulate Rise 360** corporate training deployment. 
+
+Because standard LMS reporting tools often output siloed, unformatted spreadsheets, this pipeline was built to programmatically ingest that raw Rise 360 data, sanitize it via Python, and migrate it to SQL Server for centralized business intelligence reporting.
+
+▶️ **[Launch Source Rise 360 Course (Live Sandbox Simulation)](https://app.cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=cc0121a0-a20d-4489-a0a1-937f17e19ae8)**
+
 ## 🎯 Business Challenge
 Organizations handling massive transactional datasets frequently suffer from manual processing bottlenecks, data formatting inconsistencies, and siloed reporting. This project solves a real-world enterprise scenario: engineering an automated pipeline to ingest, sanitize, and structure a high-volume sales dataset (12,000+ rows) to drive reliable corporate decision-making.
 
