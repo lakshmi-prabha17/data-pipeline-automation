@@ -29,6 +29,7 @@ Organizations handling massive transactional datasets frequently suffer from man
 
 ## 📊 Executive Analytics Interface
 Below is the dynamic Power BI dashboard connected directly to the structured SQL Server database instance, transforming the 12,575 sanitized records into actionable business intelligence:
+![Enterprise Sales Dashboard](Sales_Dashboard_Insights_Screenshot.JPG)
 
 ---
 ## 🧪 LMS Data Origin Verification (SCORM Cloud Audit Logs)
@@ -40,4 +41,4 @@ Before processing the raw dataset through Python, the source Articulate Rise 360
 ### 💻 Rise 360 LMS Debug Log Communication
 ![Rise 360 SCORM Data Elements Log](rise_360_debug_log.JPG)
 
-![Enterprise Sales Dashboard](Sales_Dashboard_Insights_Screenshot.JPG)
+
